@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="windDirectionFormatValues">
+        <item name="none">none</item>
+        <item name="arrow">arrow</item>
+        <item name="abbr">abbr</item>
+    </string-array>
+
+    <string-array name="dateFormatsValues">
+        <item>E dd.MM.yyyy - HH:mm</item>
+        <item>dd.MM.yyyy - HH:mm</item>
+        <item>E MM/dd/yyyy - hh:mm a</item>
+        <item>MM/dd/yyyy - hh:mm a</item>
+        <item>custom</item>
+    </string-array>
+
+</resources>
